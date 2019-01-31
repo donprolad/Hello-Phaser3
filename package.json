@@ -1,0 +1,14 @@
+{
+  "name": "Hello-Phaser3",
+  "version": "1.0.0",
+  "description": "Hello World Phaser3",
+  "main": "index.js",
+  "repository": "https://github.com/donprolad/Hello-Phaser3.git",
+  "author": "donprolad",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "phaser": "3.15.1"
+  }
+}
