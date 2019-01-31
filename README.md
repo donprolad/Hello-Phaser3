@@ -1,2 +1,2 @@
 # Hello-Phaser3
-Hello Phaser3
+Phaser 3 boilerplate
