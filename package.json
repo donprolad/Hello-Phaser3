@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "^1.5.3",
     "phaser": "3.15.1"
   }
 }
